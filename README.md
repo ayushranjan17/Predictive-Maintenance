@@ -1,7 +1,7 @@
 # Predictive-Maintenance
 This dataset is modeled after an existing milling machine and our objective is to predict the probability of Machine failure.
 ## Dataset Details
-According to the documentation of the Predictive Maintenance Dataset:
+According to the documentation of the Predictive Maintenance Dataset, properties of dataset features are defined below:
 
 Type: consisting of a letter L, M, or H for Low, Medium and High as product quality variants.
 
